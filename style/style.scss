@@ -1,0 +1,41 @@
+/** {
+  border: 1px solid magenta;
+}*/
+.myheader {
+  width: 100%;
+  background-color: black;
+  border-radius: 15px 15px 0 0;
+  .rowHeader {
+    height: 7vh;
+  }
+}
+
+.myheadertext {
+  color: white;
+}
+.mynav {
+  opacity: 0.6;
+}
+.topcont {
+  padding: 7vh;
+  background-color: rgb(205, 217, 221);
+  margin-top: 2vh;
+  border-radius: 6px 6px 6px 6px;
+}
+.cardcont {
+  margin-top: 2vh;
+}
+.mycard-title {
+  font-weight: bolder;
+}
+.myfooter {
+  width: 100%;
+  background-color: rgb(50, 50, 60);
+  font-size: smaller;
+  margin-top: 2vh;
+  border-radius: 0 0 15px 15px;
+  .rowFooter {
+    height: 10vh;
+    padding: 4vh 0 0;
+  }
+}
